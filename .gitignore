@@ -1,0 +1,25 @@
+# OS artifacts
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor / IDE files
+*.swp
+*~
+.vscode/
+.idea/
+
+# Local audit outputs - don't commit findings
+*-audit.txt
+*-audit.csv
+service-paths.txt
+unquoted-services.txt
+shares.txt
+*.log
+
+# Credentials / secrets - should never be in a repo anyway
+*.env
+secrets.*
+credentials.*
+*.key
+*.pem
