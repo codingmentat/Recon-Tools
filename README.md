@@ -16,7 +16,7 @@ Security recon and audit tooling for Windows, Active Directory, and Azure enviro
 |--------|---------|
 | `Find-Shares.bat` | Enumerates SMB shares across a subnet |
 | `Get-ServiceList.bat` | Dumps all services and binary paths to a file |
-| `Analyze-Service.txt` | pwsh onliner to analyse service-paths.txt file|
+| `Analyze-Service.txt` | pwsh one liner to analyse service-paths.txt file|
 
 ### PowerShell
 
